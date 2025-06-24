@@ -1,0 +1,5 @@
+pdf_image,matched_dicom,angle,score
+pdf1_img1.jpg,pydicom1_img2.jpg,0,135
+pdf1_img2.jpg,pydicom1_img5.jpg,180,510
+pdf2_img1.jpg,pydicom1_img4.jpg,90,79
+pdf2_img2.jpg,pydicom1_img4.jpg,0,623
